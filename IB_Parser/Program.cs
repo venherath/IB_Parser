@@ -27,8 +27,8 @@ namespace IB_Parser
             // Create an instance of parser
             var parser = new IBParser();
 
-            // Get the path to your CSV file
-            // "Positions.csv" must be in the same folder as executable
+            
+            // "Positions.csv" in the project directory
             string filePath = "Positions.csv";
 
             // Check if the file exists before reading
