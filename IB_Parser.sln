@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_Parser", "IB_Parser\IB_Parser.csproj", "{AB566162-D290-403B-8C89-F20DD9849561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB566162-D290-403B-8C89-F20DD9849561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB566162-D290-403B-8C89-F20DD9849561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB566162-D290-403B-8C89-F20DD9849561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB566162-D290-403B-8C89-F20DD9849561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446A4FE2-8741-4EDB-A0E4-C6380A2B317B}
+	EndGlobalSection
+EndGlobal
